@@ -1,0 +1,6 @@
+D:\Git_Dersleri\classesOrnek2\classesOrnek2\bin\Debug\classesOrnek2.exe.config
+D:\Git_Dersleri\classesOrnek2\classesOrnek2\bin\Debug\classesOrnek2.exe
+D:\Git_Dersleri\classesOrnek2\classesOrnek2\bin\Debug\classesOrnek2.pdb
+D:\Git_Dersleri\classesOrnek2\classesOrnek2\obj\Debug\classesOrnek2.csprojResolveAssemblyReference.cache
+D:\Git_Dersleri\classesOrnek2\classesOrnek2\obj\Debug\classesOrnek2.exe
+D:\Git_Dersleri\classesOrnek2\classesOrnek2\obj\Debug\classesOrnek2.pdb
